@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'GTAFont';
+    src: url('/fonts/Pricedown.ttf') format('truetype');
+}
+
+
+
+html body {
+    font-family: 'GTAFont', sans-serif;
+    color: white;
+    font-weight: 1000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    text-transform: uppercase;
+}
