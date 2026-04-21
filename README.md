@@ -7,19 +7,17 @@ This project is a modern front-end web application built using React. It focuses
 ⚛️ Built with React
 🎨 Responsive and clean UI
 🔁 Reusable components
-⚡ Fast and smooth user experience 
 
 🛠️ Tech Stack
 React.js
 JavaScript
-HTML5 & CSS3
+HTML & CSS
 
 🎯 What I Learned
 Working with React components and props
 Managing state and handling user interactions
 Writing clean and reusable code
 Building responsive UI
-
 
 🔮 Future Improvements
 Add more features
