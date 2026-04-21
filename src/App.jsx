@@ -14,14 +14,14 @@ function App() {
     tl.to(".vi-mask-group", {
       rotate: 10,
       duration: 2,
-      ease: "Power4.easeInOut",
+      ease: "power4.inOut",
       transformOrigin: "50% 50%",
     })
     tl.to(".vi-mask-group", {
       scale: 10,
       duration: 2,
       delay: -1.8,
-      ease: "Expo.easeInOut",
+      ease: "expo.inOut",
       transformOrigin: "50% 50%",
       opacity: 0,
       onUpdate: function () {
